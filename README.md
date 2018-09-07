@@ -1,5 +1,5 @@
 # AhorcadoBego
-"Que habéis hecho vosotros el juego? Pero si el bucle de este juego no lo saca ni Einstein."
+"Que habéis hecho vosotros el juego? Pero si ese bucle no lo saca ni Einstein."
 
 <h1>Un sencillo juego del ahorcado en Python que llevo un mes hacer</h1>
 &nbsp;
